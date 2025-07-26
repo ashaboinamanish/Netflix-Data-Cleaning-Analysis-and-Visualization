@@ -1,8 +1,10 @@
-# Netflix Data: Cleaning, Analysis, and Visualization 🏅
+# Netflix Data: Cleaning, Analysis, and Visualization 🎬
 
-This project analyzes historical Olympics data using Python and pandas.
+This project focuses on cleaning, analyzing, and visualizing Netflix's historical dataset using Python and pandas.
 
 ## Contents
-- olympics_analysis.ipynb
-- Data visualizations
-- Summary of medal trends
+- `netflix_analysis.ipynb`
+- Data cleaning steps and preprocessing
+- Interactive and static visualizations
+- Key insights and trends in content, ratings, and genres
+```
